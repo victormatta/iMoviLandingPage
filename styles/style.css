@@ -1,0 +1,10 @@
+.vertical-line {
+    border: none;
+    border-left: 2px solid #000;
+    height: 150px;
+    margin: 0 15px;
+  }
+
+.scroll-reveal1, .scroll-reveal2, .scroll-reveal3, .scroll-reveal4 {
+    visibility: hidden;
+}
